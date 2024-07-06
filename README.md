@@ -15,4 +15,4 @@ This application is based on a project by @Dave Gray.
 
 #### Nice To Have
 It's easier to have the following extension while using tailwind
-- <a target="_blank" rel="noopener noreferrer" href="/lameesnd/tailwindcss/blob/master/tailwindcss.png"><img src="tailwindcss.png" alt="Tailwind Logo" style="/* max-width: 100%; */height: 20px;vertical-align: text-bottom;/* width: 20px; */"></a> Tailwind CSS IntelliSense from Tailwind Labs
+- <a target="_blank" rel="noopener noreferrer" href="/lameesnd/tailwindcss/blob/master/tailwindcss.png"><img src="tailwindcss.png" alt="Tailwind Logo" style="height: 20px;vertical-align: text-bottom; "></a> Tailwind CSS IntelliSense from Tailwind Labs

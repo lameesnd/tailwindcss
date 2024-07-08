@@ -12,13 +12,15 @@ In VScode, install 'Live Server' extension.
 - Run `npm install` followed by `npm run tailwind`
 - Initiate the 'Go Live' button in VSCode and that will run the project on <small>'http://127.0.0.1:5500/build/index.html'</small>
 
-### 📚 Reference
-
-This application is based on a project by @Dave Gray.
-[Tailwind CSS Course](https://github.com/gitdagray/tailwind-css-course)
 
 #### Nice To Have
 
 It's easier to have the following extension while using tailwind
 
-- <a target="_blank" rel="noopener noreferrer" href="/lameesnd/tailwindcss/blob/master/tailwindcss.png"><img src="tailwindcss.png" alt="Tailwind Logo" style="height: 20px;vertical-align: text-bottom;"></a> Tailwind CSS IntelliSense from Tailwind Labs
+- <a target="_blank" rel="noopener noreferrer" href="/lameesnd/tailwindcss/blob/master/tailwindcss.png"><img src="tailwindcss.png" alt="Tailwind Logo" style="height: 20px;vertical-align: text-bottom !important;"></a> Tailwind CSS IntelliSense from Tailwind Labs
+
+
+#### 📚 Reference
+
+This application is based on a project by @Dave Gray.
+<small> [Tailwind CSS Course](https://github.com/gitdagray/tailwind-css-course)</small>

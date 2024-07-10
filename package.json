@@ -1,7 +1,7 @@
 {
-  "name": "lesson-2",
-  "version": "1.0.0",
-  "description": "",
+  "name": "tailwind-course",
+  "version": "1.0.3",
+  "description": "Tailwind crash course",
   "main": "tailwind.config.js",
   "scripts": {
     "tailwind": "npx tailwindcss -i ./src/input.css -o ./build/css/style.css --watch",
